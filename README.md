@@ -11,8 +11,6 @@ Repositório para o aprendizado na disciplina de Programação para Internet
 
 * Java Desktop
 * Java Web development(Spring Boot)
-* C programming language
-* R programming language(beginner)
 * SQL (Mysql, Postgres)
 * Python(beginner)
 
