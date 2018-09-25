@@ -23,7 +23,6 @@ Repositório para o aprendizado na disciplina de Programação para Internet
 
 * [Moment Api](https://github.com/MarceloxAlves/moment-api)
 * [Eventos_Wednesday](https://github.com/kairodeveloper/Projeto_Eventos_Wednesday)
-* [Jogo da Forca](https://github.com/paulorbsfilho/java_JogodaForca)
 
 ## Expectativa quanto a disciplina
 
